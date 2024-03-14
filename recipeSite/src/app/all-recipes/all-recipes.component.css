@@ -1,0 +1,36 @@
+.recipes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top:130%;
+    margin-right: -10%;
+    
+  }
+  .byC{
+    position: fixed;
+    left: 1.3%;
+    top:60%;
+    width: 10%;
+    height: 5%;
+  }
+
+  .byT{
+    position: fixed;
+    left: 2%;
+    top:25%;
+    width: 10%;
+    height: 5%; 
+  }
+  .byName{
+    position: fixed;
+    left: -1%;
+    top:50%;
+    height: 5%;
+    transform: scaleX(0.7);
+  }
+  .byNamel{
+    position: fixed;
+    top:45%;
+    left: 1%;
+  }
+

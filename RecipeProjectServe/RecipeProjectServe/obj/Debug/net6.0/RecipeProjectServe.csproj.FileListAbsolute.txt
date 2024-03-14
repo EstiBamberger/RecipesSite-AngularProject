@@ -1,0 +1,96 @@
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\RecipeProjectServe.exe
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\RecipeProjectServe.deps.json
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\RecipeProjectServe.runtimeconfig.json
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\RecipeProjectServe.dll
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\RecipeProjectServe.pdb
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.AssemblyInfo.cs
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets\msbuild.RecipeProjectServe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets\msbuild.build.RecipeProjectServe.props
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RecipeProjectServe.props
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RecipeProjectServe.props
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\scopedcss\bundle\RecipeProjectServe.styles.css
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.csproj.CopyComplete
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.dll
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\refint\RecipeProjectServe.dll
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.pdb
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.genruntimeconfig.cache
+C:\Users\USER\Desktop\פרויקט\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\ref\RecipeProjectServe.dll
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\RecipeProjectServe.exe
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\RecipeProjectServe.deps.json
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\RecipeProjectServe.runtimeconfig.json
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\RecipeProjectServe.dll
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\RecipeProjectServe.pdb
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.AssemblyInfo.cs
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets\msbuild.RecipeProjectServe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets\msbuild.build.RecipeProjectServe.props
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RecipeProjectServe.props
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RecipeProjectServe.props
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\scopedcss\bundle\RecipeProjectServe.styles.css
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.csproj.CopyComplete
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.dll
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\refint\RecipeProjectServe.dll
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.pdb
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.genruntimeconfig.cache
+C:\Users\USER\Desktop\פרויקט חדש\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\ref\RecipeProjectServe.dll
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\RecipeProjectServe.exe
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\RecipeProjectServe.deps.json
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\RecipeProjectServe.runtimeconfig.json
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\RecipeProjectServe.dll
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\RecipeProjectServe.pdb
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.AssemblyInfo.cs
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets\msbuild.RecipeProjectServe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets\msbuild.build.RecipeProjectServe.props
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RecipeProjectServe.props
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RecipeProjectServe.props
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\scopedcss\bundle\RecipeProjectServe.styles.css
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.csproj.CopyComplete
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.dll
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\refint\RecipeProjectServe.dll
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.pdb
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\RecipeProjectServe.genruntimeconfig.cache
+C:\Users\USER\Desktop\פרויקט חדש\recipeProject\RecipeProjectServe\RecipeProjectServe\obj\Debug\net6.0\ref\RecipeProjectServe.dll

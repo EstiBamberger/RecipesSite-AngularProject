@@ -1,0 +1,41 @@
+.login {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 22%;
+  }
+  .example-form {
+    display: flex;
+    flex-direction: column;
+    width: 150%;
+  }
+  .w-full{
+    background-color: #df7f7f;
+    border: #df7f7f;
+  }
+  .w-full:hover{
+    background-color: #d95e5e;
+  }
+  .w-full.active{
+    background-color: #d75757;
+  }
+  .custom-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #df7f7f;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+  }
+  .lock-icon {
+    color: rgb(255, 255, 255);
+  }
+  .title {
+    color: black;
+    font-size: 170%;
+    margin-bottom: 20px;
+  }
+  .button{
+    width: 100%;
+  }
