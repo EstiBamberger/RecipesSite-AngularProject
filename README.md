@@ -23,4 +23,23 @@ Welcome to the Recipe Website Development project! This project involves server-
 ## How to Download
 
 1. Clone the repository from GitHub:
-git clone 
+git clone https://github.com/EstiBamberger/RecipesSite-AngularProject.git
+
+## Setting Up
+
+1. Navigate to the server directory and follow the setup instructions.
+2. Configure the client-side environment as per Angular 17 requirements.
+
+## Usage
+
+1. Start the server.
+2. Launch the client application.
+3. Explore and interact with the recipe website.
+
+## Contributing
+
+Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details. 
