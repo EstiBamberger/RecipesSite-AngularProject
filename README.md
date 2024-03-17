@@ -34,5 +34,4 @@ git clone https://github.com/EstiBamberger/RecipesSite-AngularProject.git
 
 1. Start the server.
 2. Launch the client application.
-3. Explore and interact with the recipe website.
 
